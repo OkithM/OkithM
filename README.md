@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Insert Project Name]**
+- 🔭 I’m currently working on **Focus Track**
 <!-- - 🌱 I’m currently learning **Advanced Backend Architecture** -->
 - ⚡ Fun fact: I love building seamless mobile experiences with **Flutter**
 
