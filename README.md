@@ -53,7 +53,8 @@
 | Project           | Description                     | Tech Stack             |
 | :---------------- | :------------------------------ | :--------------------- |
 | **Focus Track** | A application to track study time   | `Flutter` |
-<!-- | **Project Beta**  | Cross-platform fitness tracker. | `Flutter`, `Firebase`  | -->
+| **Video Downloader** | A application to Download video from YT and FB   | `Flutter` |
+
 
 ---
 
